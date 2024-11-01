@@ -1,0 +1,42 @@
+# Translation of the WordPress plugin WPLANG Lite 0.5-trunk by Sergey Biryukov.
+# Copyright (C) 2010 Sergey Biryukov
+# This file is distributed under the same license as the Edit Parent Comment ID package.
+# Sergey Biryukov <sergeybiryukov.ru@gmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLANG Lite 0.5-trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-07 17:55+0300\n"
+"PO-Revision-Date: 2010-07-07 17:55+0300\n"
+"Last-Translator: Sergey Biryukov <sergeybiryukov.ru@gmail.com>\n"
+"Language-Team: Sergey Biryukov <sergeybiryukov.ru@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wplang-lite.php:21
+#, php-format
+msgid "%s is not writeable! Please change the permissions to 755 or 777."
+msgstr "Каталог %s недоступен для записи! Пожалуйста, установите права 755 или 777."
+
+#: wplang-lite.php:66
+#: wplang-lite.php:71
+#, php-format
+msgid "Could not read file %s"
+msgstr "Не удалось прочитать файл %s"
+
+#: wplang-lite.php:96
+#, php-format
+msgid "Could not create file %s"
+msgstr "Не удалось создать файл %s"
+
+#: wplang-lite.php:98
+msgid "File created successfully."
+msgstr "Файл успешно создан."
+
